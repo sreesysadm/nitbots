@@ -1,2 +1,6 @@
 *.php
 *.java
+
+!index.php
+
+[aeiou].java
